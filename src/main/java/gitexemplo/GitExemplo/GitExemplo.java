@@ -5,5 +5,7 @@ public class GitExemplo {
 
     public static void main(String[] args) {
         System.out.println("Alteração na branch conflito-teste!");
+        System.out.println("Nova feature de login!");
+
     }
 }
